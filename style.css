@@ -1,0 +1,20 @@
+.toptitle{
+  margin-top: 20px;
+  margin-right: 20px;
+  color:rgb(24, 127, 153);
+  text-align:end;
+}
+
+body{
+  background-color:rgb(36, 36, 36);
+  overflow-x: hidden;
+}
+
+.Videos-Main{
+  text-align: center;
+}
+
+.Videos-Main iframe{
+  margin: 5px;
+  border: 1px solid rgba(119, 119, 119, 0.411);
+}
